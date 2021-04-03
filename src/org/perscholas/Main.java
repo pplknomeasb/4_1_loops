@@ -31,7 +31,7 @@ public class Main {
                 total=total+numberEntry;
 
                 //Building the final result print screen
-                allNumbers = allNumbers+ String.format(numberEntry+", ");
+                allNumbers = allNumbers + String.format(numberEntry+", ");
 
             }else{
 
